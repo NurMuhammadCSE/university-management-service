@@ -1,0 +1,4 @@
+Tue Jun 27 2023 15:5:46 } [PH] error: Failed to connect database URI must include hostname, domain name, and tld
+Tue Jun 27 2023 15:6:23 } [PH] error: Failed to connect database URI must include hostname, domain name, and tld
+Tue Jun 27 2023 15:7:47 } [PH] error: Failed to connect database connect ECONNREFUSED ::1:27017
+Tue Jun 27 2023 15:9:16 } [PH] error: Failed to connect database connect ECONNREFUSED ::1:27017
